@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vincent13214 you can call me Vincent
+-👋 Hi, I’m @vincent13214 you can call me Vincent
 
 -I like to code stuff
 
